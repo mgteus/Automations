@@ -17,8 +17,9 @@ from script_modules import read_params
 
 
 
+
 def compra_nike():
-    
+
     lista_params = ['']
 
 
