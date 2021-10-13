@@ -9,7 +9,7 @@ import time
 
 
 def posta_anuncio(path):
-    
+
 
 
     email = ''
@@ -35,7 +35,8 @@ def posta_anuncio(path):
 
     driver.find_elements(By.TAG_NAME, "button")[1].click()
 
-
+    
+    
 
 
     time.sleep(5)
